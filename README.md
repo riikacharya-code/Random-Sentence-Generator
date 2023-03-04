@@ -24,12 +24,12 @@ I have created several CFGs, where the terminals are characters, and the non-ter
 
 Here is one:
 
-<start> -> Every morning at 8:30, I eat <int> bowls of <pluralnoun> with whole milk.
+  <start> -> Every morning at 8:30, I eat <int> bowls of <pluralnoun> with whole milk.
 
-<int> -> 4 | 5 | 9 | 33
+  <int> -> 4 | 5 | 9 | 33
 
-<pluralnoun> -> nanobots | fried noodles | <adjective> potatoes
+  <pluralnoun> -> nanobots | fried noodles | <adjective> potatoes
 
-<adjective> -> lumpy | smooth
+  <adjective> -> lumpy | smooth
   
 
