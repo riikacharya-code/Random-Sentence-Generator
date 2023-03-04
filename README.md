@@ -28,8 +28,8 @@ Here is one:
 
 &lt;int&gt; -> 4 | 5 | 9 | 33
 
-&lt;pluralnoun&gt; -> nanobots | fried noodles | &lt;adjective&gt; potatoes"
+&lt;pluralnoun&gt; -> nanobots | fried noodles | &lt;adjective&gt; potatoes
 
-&lt;adjective&gt; -> lumpy | smooth"
+&lt;adjective&gt; -> lumpy | smooth
   
 
