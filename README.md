@@ -32,7 +32,6 @@ Here is one:
 
   &lt;adjective&gt; -> lumpy | smooth
   
-The program I have designed takes in a CFG such as this on the command line, and generates a random sentence in the language of the CFG.
-
-
+The program I have designed takes in a CFG such as this on the command line, and generates a random sentence in the language of the CFG, like this:
+<img width="919" alt="Screen Shot 2023-03-04 at 11 08 46 AM" src="https://user-images.githubusercontent.com/76747943/222916663-62337267-9655-484b-bddc-3649d6a26172.png">
 
