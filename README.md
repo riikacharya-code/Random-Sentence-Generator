@@ -24,12 +24,15 @@ I have created several CFGs, where the terminals are characters, and the non-ter
 
 Here is one:
 
-&lt;start&gt; -> Every morning at 8:30, I eat &gt;int&gt; bowls of &lt;pluralnoun&gt; with whole milk.
+  &lt;start&gt; -> Every morning at 8:30, I eat &gt;int&gt; bowls of &lt;pluralnoun&gt; with whole milk.
 
-&lt;int&gt; -> 4 | 5 | 9 | 33
+  &lt;int&gt; -> 4 | 5 | 9 | 33
 
-&lt;pluralnoun&gt; -> nanobots | fried noodles | &lt;adjective&gt; potatoes
+  &lt;pluralnoun&gt; -> nanobots | fried noodles | &lt;adjective&gt; potatoes
 
-&lt;adjective&gt; -> lumpy | smooth
+  &lt;adjective&gt; -> lumpy | smooth
   
+The program I have designed takes in a CFG such as this on the command line, and generates a random sentence in the language of the CFG.
+
+
 
