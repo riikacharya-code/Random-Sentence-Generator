@@ -12,7 +12,7 @@ It looks something like this:
 
 X -> aXb | ɛ
 
-A non-terminal is a symbol that can be expanded by following another rule, such as X. When generating a string in the lanuage, X can be expanded to "aXb" or just ɛ, the empty string (meaning nothing is added to the string)
+A non-terminal is a symbol that can be expanded by following another rule. In the CFG above, that rule is called X, although a CFG can contain multiple rules. When generating a string in the lanuage, X can be expanded to "aXb" or just ɛ, the empty string (meaning nothing is added to the string)
 
 A terminal is a character of the string that cannot expanded, and the character itself is used in the string.
 
